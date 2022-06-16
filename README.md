@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=1DF74A&lines=Hi%2C+I'm+Lucas!+)](https://git.io/typing-svg)
 
 <!--
 **lukzgs/lukzgs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

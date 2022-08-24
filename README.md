@@ -10,7 +10,7 @@ Fullstack web developer
 
 ----
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukzgs&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukzgs&show_icons=true&count_private=true)
 
 ----
 <h3 align="left">Languages and Tools:</h3>

@@ -2,11 +2,14 @@
 
 ----
 
-I'am a computer science student @ UFRGS
+It's nice to meet you! 
 <br/>
-and
-<br/>
-Fullstack web developer 
+A little piece about me:
+- Affectionated about technology
+- Fullstack web developer 
+- Computer Science undergraduate @ UFRGS
+- Part-time gamer
+- Full-time nerd
 
 ----
 

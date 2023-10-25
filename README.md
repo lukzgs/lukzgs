@@ -4,7 +4,8 @@
 
 It's nice to meet you! 
 <br/>
-A little piece about me:
+
+about me:
 - Affectionated about technology
 - Fullstack web developer 
 - Computer Science undergraduate @ UFRGS
